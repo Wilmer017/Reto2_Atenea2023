@@ -154,6 +154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 579119335}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 1
   LimiteBorde: 30
@@ -250,6 +251,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 579119335}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0
@@ -311,6 +313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 579119335}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 1
   LimiteBorde: 0
@@ -530,7 +533,8 @@ MonoBehaviour:
   Objetivos:
   - Restaurar el ecosistema
   - "Recoge los C\xE1lices"
-  TareasSinCompletar: 1
+  - Ir a la Jeep
+  TareasSinCompletar: 7
   TareasRealizadas: 0
   Personaje: {fileID: 0}
   PorRealizar: {fileID: 1366662770}
@@ -713,6 +717,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 579119335}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0
@@ -777,6 +782,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 579119335}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0
@@ -886,6 +892,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 579119335}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 1
   LimiteBorde: 40
@@ -1072,6 +1079,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 579119335}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0
@@ -1456,6 +1464,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 579119335}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 1
   LimiteBorde: 10
@@ -1632,6 +1641,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 579119335}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0

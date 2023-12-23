@@ -154,6 +154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 670525551}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0
@@ -555,6 +556,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 670525551}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 1
   LimiteBorde: 10
@@ -663,9 +665,10 @@ MonoBehaviour:
   intentos: 50
   JuegoPadre: {fileID: 247333917}
   Objetivos:
-  - Restaurar el ecosistema
-  - "Recoge los C\xE1lices"
-  TareasSinCompletar: 1
+  - Restaurar el equilibrio  en el Bosque
+  - Recolecta las Llamas
+  - Ir a la Jeep
+  TareasSinCompletar: 10
   TareasRealizadas: 0
   Personaje: {fileID: 0}
   PorRealizar: {fileID: 2070048823}
@@ -732,6 +735,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 670525551}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 1
   LimiteBorde: 30
@@ -793,6 +797,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 670525551}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0
@@ -854,6 +859,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 670525551}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 1
   LimiteBorde: 0
@@ -915,6 +921,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 670525551}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0
@@ -978,6 +985,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 670525551}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0
@@ -1592,6 +1600,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 670525551}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0
@@ -1660,6 +1669,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 670525551}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 1
   LimiteBorde: 20

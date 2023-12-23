@@ -1324,10 +1324,10 @@ MonoBehaviour:
   intentos: 50
   JuegoPadre: {fileID: 1965089580}
   Objetivos:
-  - Restaurar el ecosistema
-  - "Recoge los C\xE1lices"
-  - 03
-  TareasSinCompletar: 1
+  - Conectar con el Aire
+  - Recolectar Esferas de Viento
+  - Ir a la Jeep
+  TareasSinCompletar: 15
   TareasRealizadas: 0
   Personaje: {fileID: 0}
   PorRealizar: {fileID: 774579733}

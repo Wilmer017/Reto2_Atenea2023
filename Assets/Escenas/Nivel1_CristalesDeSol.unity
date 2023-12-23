@@ -285,6 +285,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 146359520}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 1
   LimiteBorde: 40
@@ -355,7 +356,7 @@ MonoBehaviour:
   - Orienta las Plantas Solares
   - Recolecta los Cristales
   - Ir a la Jeep
-  TareasSinCompletar: 1
+  TareasSinCompletar: 5
   TareasRealizadas: 0
   Personaje: {fileID: 0}
   PorRealizar: {fileID: 77516852}
@@ -437,6 +438,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 146359520}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0
@@ -624,6 +626,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 146359520}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0
@@ -726,6 +729,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 146359520}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0
@@ -890,6 +894,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 146359520}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 1
   LimiteBorde: 30
@@ -1067,6 +1072,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 146359520}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 1
   LimiteBorde: 0
@@ -1128,6 +1134,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 146359520}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 1
   LimiteBorde: 10
@@ -1189,6 +1196,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 146359520}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0
@@ -1497,6 +1505,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ControlNivel: {fileID: 146359520}
+  ControlMenu: {fileID: 0}
   DistanciaPersonaje: 0
   AplicarBordes: 0
   LimiteBorde: 0

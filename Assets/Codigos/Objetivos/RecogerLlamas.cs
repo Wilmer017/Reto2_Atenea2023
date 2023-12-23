@@ -27,6 +27,12 @@ public class RecogerLlamas : MonoBehaviour
             {
                 Llamas_Recolocar.IniciarRecolocar();
             }
+
+            HojaApuntaCamara Llamas_Apuntan;
+            if (PadreLlamas.transform.GetChild(i).TryGetComponent<HojaApuntaCamara>(out Llamas_Apuntan))
+            {
+                Llamas_Apuntan.Iniciar(Control1.Personaje.CamaraPersonaje.transform, Vector3.zero);
+            }
         }
     }
     void Update()
